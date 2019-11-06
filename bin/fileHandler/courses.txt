@@ -1,0 +1,7 @@
+Code, Name, Instructor
+1001, OOP, Professor Johns
+1002, Discrete Math, Professor Luke
+1003, Digital Logic, Professor Owens            
+CIS335, Advanced OOP, Bairon V.
+CIS335, Advanced OOP, Bairon V.
+CIS335, Advanced OOP, Bairon V.
